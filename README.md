@@ -10,7 +10,7 @@ This project is an interactive Tableau data visualization dashboard analyzing th
   * *Description:* A comparative analysis highlighting the structural changes in energy generation volume between the baseline year (2016) and the final target year (2025).
 
 ## Dataset
-* **Source File:** `china_renewables_release_long.csv`
+* **Source File:** `china_renewables_release_long.csv` from Ember (global energy tank)
 * **Key Fields:** `Date`, `Year`, `Month_Name`, `Quarter`, `Energy_Source`, `Generation (TWh)`, `Share of generation (%)`
 
 ## Tools & Technologies Used
